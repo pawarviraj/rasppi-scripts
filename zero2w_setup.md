@@ -22,6 +22,5 @@ Lightweight first‑boot script for **Raspberry Pi Zero 2 W** (64‑bit Raspberr
 curl -fsSL https://raw.githubusercontent.com/pawarviraj/rasppi-scripts/main/zero2w_setup.sh | sudo bash
 ```
 
-## Having trouble connecting to for **Raspberry Pi Zero 2 W** the first time?
-## Follow the youtube video to fix post Raspberry Pi OS Lite installation
+## Having trouble connecting to for **Raspberry Pi Zero 2 W** the first time? Follow the youtube video to fix post Raspberry Pi OS Lite installation
 - https://www.youtube.com/watch?v=xj3MPmJhAPU
