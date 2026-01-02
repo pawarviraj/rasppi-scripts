@@ -2,7 +2,7 @@
 
 Lightweight first‑boot script for **Raspberry Pi Zero 2 W** (64‑bit Raspberry Pi OS Lite). Installs **zram** (RAM swap), **Docker**, and **Portainer Agent** to join your RP5 Portainer cluster. Optimized for 512 MB RAM, ready for AdGuard Home/DNS node.
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![GitHub stars](https://img.shields.io/github/stars/pawarviraj/rasppi-scripts)](https://github.com/pawarviraj/rasppi-scripts)
 
 ## Features
 - ✅ **zram‑swap**: 256 MB compressed swap (lz4, ~128 MB RAM use)
