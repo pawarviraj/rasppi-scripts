@@ -19,4 +19,4 @@ Lightweight first‑boot script for **Raspberry Pi Zero 2 W** (64‑bit Raspberr
 ## One‑command install (from fresh boot)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/zero2w_setup.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/pawarviraj/rasppi-scripts/main/zero2w_setup.sh | sudo bash
